@@ -1,0 +1,41 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+env/
+venv/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Python cache files
+*.log
+*.pot
+*.mo
+
+# Environment variables / credentials
+.env
+.env.*
+
+# Data and outputs
+*.csv
+*.xlsx
+*.json
+*.db
+
+# matplotlib cache
+.matplotlib/
+
+# PyInstaller
+build/
+dist/
+*.spec
